@@ -1,6 +1,6 @@
 # Lightroom Puppet Module for Boxen
 
-A boxen puppet module for installing [Adobe Light Room](http://www.adobe.com/products/photoshop-lightroom.html), with Boxen
+A boxen puppet module for installing [Adobe Photoshop Light Room](http://www.adobe.com/products/photoshop-lightroom.html), a photo editing and management software
 
 [![Build Status](https://travis-ci.org/tinygrasshopper/puppet-lightroom.svg?branch=master)](https://travis-ci.org/tinygrasshopper/puppet-lightroom)
 
